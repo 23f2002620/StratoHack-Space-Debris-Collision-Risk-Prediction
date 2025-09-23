@@ -1,4 +1,4 @@
-# StratoHack-Space-Debris-Collision-Risk-Prediction
+# Space-Debris-Collision-Risk-Prediction
 
 ## Problem Statement
 
